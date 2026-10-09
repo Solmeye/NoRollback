@@ -1,0 +1,2 @@
+gamerule minecraft:elytra_movement_check false
+gamerule minecraft:player_movement_check false
