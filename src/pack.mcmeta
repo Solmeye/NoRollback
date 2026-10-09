@@ -1,8 +1,15 @@
 {
     "pack" : {
-        "description" : "§7Removes (annoying) rollbacks",
+        "description" : "§7Remove (annoying) rollbacks",
 
-        "min_format": [88, 0],
+        "pack_format" : 81,
+
+		"supported_formats" : {
+            "min_inclusive": 4,
+            "max_inclusive": 81
+        },
+
+        "min_format": [4, 0],
         "max_format": [123, 0]
     }
 }

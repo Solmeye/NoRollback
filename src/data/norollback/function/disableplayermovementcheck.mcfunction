@@ -1,0 +1,1 @@
+gamerule disablePlayerMovementCheck true
