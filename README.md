@@ -3,6 +3,7 @@
 ## NoRollback
 
 [![Modrinth Icon](https://cdn.sqidgeon.uk/cozy/available/modrinth_vector.svg)](https://modrinth.com/project/K4Ytaql5)
+[![Github Icon](https://cdn.sqidgeon.uk/cozy/available/github_vector.svg)](https://github.com/Solmeye/NoRollback)
 [![Discord Icon](https://cdn.sqidgeon.uk/cozy/social/discord-plural_vector.svg)](https://discord.gg/FVq3j5heAc)
 
 </center>
