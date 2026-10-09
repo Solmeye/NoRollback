@@ -1,0 +1,2 @@
+gamerule elytra_movement_check false
+gamerule player_movement_check false

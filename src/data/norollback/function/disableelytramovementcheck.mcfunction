@@ -1,2 +1,0 @@
-gamerule disableElytraMovementCheck true
-function norollback:disableplayermovementcheck
