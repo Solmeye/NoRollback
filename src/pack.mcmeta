@@ -3,6 +3,6 @@
         "description" : "§7Removes (annoying) rollbacks",
 
         "min_format": [88, 0],
-        "max_format": [121, 0]
+        "max_format": [123, 0]
     }
 }
