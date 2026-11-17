@@ -10,6 +10,6 @@
         },
 
         "min_format": [4, 0],
-        "max_format": [127, 0]
+        "max_format": [128, 0]
     }
 }
